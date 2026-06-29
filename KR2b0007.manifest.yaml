@@ -1,0 +1,1832 @@
+canonical_identifier: bkk:krp/KR2b0007/v1
+canonical_location: https://kanripo.org/bkk/KR2b0007/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 資治通鑑 後周紀
+  identifiers:
+    krp: KR2b0007
+  tags:
+    kr-categories: KR2b
+    tls-internal: swl
+  source:
+    repository: tls-texts
+    path: data/tls/KR2b0007.xml
+  edition:
+    short: bkk
+editions:
+- short: SBCK
+  label: 【四部叢刊】
+- short: WYG
+  label: 【四庫全書・文淵閣】
+- short: krp
+- short: ZHSJ
+assets:
+  parts:
+  - {seq: 290, filename: KR2b0007_290.yaml, hash: 'sha256:e43403c2716c2ce4c7a975d57e2bc6d32f9a7fb7817ed44f929687491ebd721e'}
+  - {seq: 291, filename: KR2b0007_291.yaml, hash: 'sha256:c830a725bd67260116049f79b0a2e2d3a1549212e81073ccfbddd1b8417644b1'}
+  - {seq: 292, filename: KR2b0007_292.yaml, hash: 'sha256:4836ef05d591fc8006818b9eb9e920e1e1cb1b05bb76d8a4cf75a6619bed4c58'}
+  - {seq: 293, filename: KR2b0007_293.yaml, hash: 'sha256:a2eb7fc99e6184ce44f14eb6bf2cb22a976e3846b8b9f3a173033dd3f39058d8'}
+  - {seq: 294, filename: KR2b0007_294.yaml, hash: 'sha256:fa08246780dff3b123a04509386cf6198ff90c11145660e9ee11e31b208badec'}
+  markers:
+  - {seq: 290, role: markers, filename: assets/KR2b0007_290.markers.yaml, hash: 'sha256:d58979378ffdd2bf92ef72b18353b770a8e0697268e4caa6458266ae58cc2f68'}
+  - {seq: 291, role: markers, filename: assets/KR2b0007_291.markers.yaml, hash: 'sha256:9fb83e1758edbccf4abbacd03a793437e69157efa1161e4917ee9f60d0cbab20'}
+  - {seq: 292, role: markers, filename: assets/KR2b0007_292.markers.yaml, hash: 'sha256:ba5b489d01b74a5afd9ebd6d255e959a4000e584584cff0caec13d2fe52caf38'}
+  - {seq: 293, role: markers, filename: assets/KR2b0007_293.markers.yaml, hash: 'sha256:9462cbaa40ba0052ff9af5c5d9b10fd5b0043ba60503325406a6c37396e881b2'}
+  - {seq: 294, role: markers, filename: assets/KR2b0007_294.markers.yaml, hash: 'sha256:fef0749907c746a02b73b30a2d1e17f7a141007a76d7f94138fac11dce57e87d'}
+table_of_contents:
+- ref:
+    seq: 290
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 14707
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d67h1s1
+    span:
+    - body
+    - 0
+    - 71
+  label: 資治通鑑卷第二百九十
+  type: section
+  level: 2
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d68
+    span:
+    - body
+    - 71
+    - 150
+  label: 後周紀一
+  type: section
+  level: 2
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69
+    span:
+    - body
+    - 150
+    - 10400
+  label: 太祖聖神恭肅文孝皇帝上
+  type: section
+  level: 2
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d1
+    span:
+    - body
+    - 161
+    - 178
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d2
+    span:
+    - body
+    - 178
+    - 616
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d3
+    span:
+    - body
+    - 616
+    - 653
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d4
+    span:
+    - body
+    - 653
+    - 695
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d5
+    span:
+    - body
+    - 695
+    - 713
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d6
+    span:
+    - body
+    - 713
+    - 730
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d7
+    span:
+    - body
+    - 730
+    - 760
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d8
+    span:
+    - body
+    - 760
+    - 1144
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d9
+    span:
+    - body
+    - 1144
+    - 1258
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d10
+    span:
+    - body
+    - 1258
+    - 1331
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d11
+    span:
+    - body
+    - 1331
+    - 1383
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d12
+    span:
+    - body
+    - 1383
+    - 1447
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d13
+    span:
+    - body
+    - 1447
+    - 1464
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d14
+    span:
+    - body
+    - 1464
+    - 1983
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d15
+    span:
+    - body
+    - 1983
+    - 2013
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d16
+    span:
+    - body
+    - 2013
+    - 2047
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d17
+    span:
+    - body
+    - 2047
+    - 2456
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d18
+    span:
+    - body
+    - 2456
+    - 2650
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d19
+    span:
+    - body
+    - 2650
+    - 2678
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d20
+    span:
+    - body
+    - 2678
+    - 2769
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d21
+    span:
+    - body
+    - 2769
+    - 2941
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d22
+    span:
+    - body
+    - 2941
+    - 2984
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d23
+    span:
+    - body
+    - 2984
+    - 3070
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d24
+    span:
+    - body
+    - 3070
+    - 3116
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d25
+    span:
+    - body
+    - 3116
+    - 3163
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d26
+    span:
+    - body
+    - 3163
+    - 3272
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d27
+    span:
+    - body
+    - 3272
+    - 3346
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d28
+    span:
+    - body
+    - 3346
+    - 3727
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d29
+    span:
+    - body
+    - 3727
+    - 3785
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d30
+    span:
+    - body
+    - 3785
+    - 3827
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d31
+    span:
+    - body
+    - 3827
+    - 4448
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d32
+    span:
+    - body
+    - 4448
+    - 4477
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d33
+    span:
+    - body
+    - 4477
+    - 4510
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d34
+    span:
+    - body
+    - 4510
+    - 4554
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d35
+    span:
+    - body
+    - 4554
+    - 4609
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d36
+    span:
+    - body
+    - 4609
+    - 4630
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d37
+    span:
+    - body
+    - 4630
+    - 4686
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d38
+    span:
+    - body
+    - 4686
+    - 4820
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d39
+    span:
+    - body
+    - 4820
+    - 4877
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d40
+    span:
+    - body
+    - 4877
+    - 4944
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d41
+    span:
+    - body
+    - 4944
+    - 4986
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d42
+    span:
+    - body
+    - 4986
+    - 5165
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d43
+    span:
+    - body
+    - 5165
+    - 5195
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d44
+    span:
+    - body
+    - 5195
+    - 5229
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d45
+    span:
+    - body
+    - 5229
+    - 5529
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d46
+    span:
+    - body
+    - 5529
+    - 5653
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d47
+    span:
+    - body
+    - 5653
+    - 5703
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d48
+    span:
+    - body
+    - 5703
+    - 5744
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d49
+    span:
+    - body
+    - 5744
+    - 5805
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d50
+    span:
+    - body
+    - 5805
+    - 5832
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d51
+    span:
+    - body
+    - 5832
+    - 5905
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d52
+    span:
+    - body
+    - 5905
+    - 5938
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d53
+    span:
+    - body
+    - 5938
+    - 6313
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d54
+    span:
+    - body
+    - 6313
+    - 6350
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d55
+    span:
+    - body
+    - 6350
+    - 7243
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d56
+    span:
+    - body
+    - 7243
+    - 7297
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d57
+    span:
+    - body
+    - 7297
+    - 7562
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d58
+    span:
+    - body
+    - 7562
+    - 7711
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d59
+    span:
+    - body
+    - 7711
+    - 7981
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d60
+    span:
+    - body
+    - 7981
+    - 8079
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d61
+    span:
+    - body
+    - 8079
+    - 8281
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d62
+    span:
+    - body
+    - 8281
+    - 8352
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d63
+    span:
+    - body
+    - 8352
+    - 8831
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d64
+    span:
+    - body
+    - 8831
+    - 8889
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d65
+    span:
+    - body
+    - 8889
+    - 9373
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d66
+    span:
+    - body
+    - 9373
+    - 9431
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d67
+    span:
+    - body
+    - 9431
+    - 9474
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d68
+    span:
+    - body
+    - 9474
+    - 9799
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d69
+    span:
+    - body
+    - 9799
+    - 9997
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d70
+    span:
+    - body
+    - 9997
+    - 10170
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d69d71
+    span:
+    - body
+    - 10170
+    - 10400
+  label: 楚王希萼既克長沙
+  type: section
+  level: 3
+- ref:
+    seq: 290
+    marker_id: KR2b0007_ZHSJ_290-d70
+    span:
+    - body
+    - 10400
+    - 14707
+  label: 二年壬子九五二
+  type: section
+  level: 2
+- ref:
+    seq: 291
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 14709
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d71h1s1
+    span:
+    - body
+    - 0
+    - 72
+  label: 資治通鑑卷第二百九十一
+  type: section
+  level: 2
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d72
+    span:
+    - body
+    - 72
+    - 2510
+  label: 後周紀二太祖聖神恭肅文武孝皇帝中
+  type: section
+  level: 2
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73
+    span:
+    - body
+    - 2510
+    - 14709
+  label: 三年癸丑九五三
+  type: section
+  level: 2
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d1
+    span:
+    - body
+    - 2517
+    - 2605
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d2
+    span:
+    - body
+    - 2605
+    - 2664
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d3
+    span:
+    - body
+    - 2664
+    - 2938
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d4
+    span:
+    - body
+    - 2938
+    - 3037
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d5
+    span:
+    - body
+    - 3037
+    - 3104
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d6
+    span:
+    - body
+    - 3104
+    - 3145
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d7
+    span:
+    - body
+    - 3145
+    - 3228
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d8
+    span:
+    - body
+    - 3228
+    - 3287
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d9
+    span:
+    - body
+    - 3287
+    - 3339
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d10
+    span:
+    - body
+    - 3339
+    - 3404
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d11
+    span:
+    - body
+    - 3404
+    - 3422
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d12
+    span:
+    - body
+    - 3422
+    - 3495
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d13
+    span:
+    - body
+    - 3495
+    - 3971
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d14
+    span:
+    - body
+    - 3971
+    - 3991
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d15
+    span:
+    - body
+    - 3991
+    - 4930
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d16
+    span:
+    - body
+    - 4930
+    - 4968
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d17
+    span:
+    - body
+    - 4968
+    - 5302
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d18
+    span:
+    - body
+    - 5302
+    - 5385
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d19
+    span:
+    - body
+    - 5385
+    - 5430
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d20
+    span:
+    - body
+    - 5430
+    - 5505
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d21
+    span:
+    - body
+    - 5505
+    - 5751
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d22
+    span:
+    - body
+    - 5751
+    - 5780
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d23
+    span:
+    - body
+    - 5780
+    - 5812
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d24
+    span:
+    - body
+    - 5812
+    - 5873
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d25
+    span:
+    - body
+    - 5873
+    - 5998
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d26
+    span:
+    - body
+    - 5998
+    - 6097
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d27
+    span:
+    - body
+    - 6097
+    - 6123
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d28
+    span:
+    - body
+    - 6123
+    - 6222
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d29
+    span:
+    - body
+    - 6222
+    - 6302
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d30
+    span:
+    - body
+    - 6302
+    - 6326
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d31
+    span:
+    - body
+    - 6326
+    - 6426
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d32
+    span:
+    - body
+    - 6426
+    - 6554
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d33
+    span:
+    - body
+    - 6554
+    - 6616
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d34
+    span:
+    - body
+    - 6616
+    - 6655
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d35
+    span:
+    - body
+    - 6655
+    - 6691
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d36
+    span:
+    - body
+    - 6691
+    - 6759
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d37
+    span:
+    - body
+    - 6759
+    - 6909
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d38
+    span:
+    - body
+    - 6909
+    - 6918
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d39
+    span:
+    - body
+    - 6918
+    - 6963
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d40
+    span:
+    - body
+    - 6963
+    - 7112
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d41
+    span:
+    - body
+    - 7112
+    - 7142
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d42
+    span:
+    - body
+    - 7142
+    - 7282
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d43
+    span:
+    - body
+    - 7282
+    - 7536
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d44
+    span:
+    - body
+    - 7536
+    - 7585
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d45
+    span:
+    - body
+    - 7585
+    - 7673
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d46
+    span:
+    - body
+    - 7673
+    - 7747
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d47
+    span:
+    - body
+    - 7747
+    - 7775
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d48
+    span:
+    - body
+    - 7775
+    - 7819
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d49
+    span:
+    - body
+    - 7819
+    - 8001
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d50
+    span:
+    - body
+    - 8001
+    - 8127
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d51
+    span:
+    - body
+    - 8127
+    - 8149
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d52
+    span:
+    - body
+    - 8149
+    - 8187
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d53
+    span:
+    - body
+    - 8187
+    - 8440
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d54
+    span:
+    - body
+    - 8440
+    - 8571
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d55
+    span:
+    - body
+    - 8571
+    - 8867
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d56
+    span:
+    - body
+    - 8867
+    - 8946
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d57
+    span:
+    - body
+    - 8946
+    - 9100
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d58
+    span:
+    - body
+    - 9100
+    - 9339
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d59
+    span:
+    - body
+    - 9339
+    - 9669
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d60
+    span:
+    - body
+    - 9669
+    - 9737
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d61
+    span:
+    - body
+    - 9737
+    - 9989
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d62
+    span:
+    - body
+    - 9989
+    - 9998
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d63
+    span:
+    - body
+    - 9998
+    - 12445
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d64
+    span:
+    - body
+    - 12445
+    - 12485
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d65
+    span:
+    - body
+    - 12485
+    - 12756
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d66
+    span:
+    - body
+    - 12756
+    - 12802
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d67
+    span:
+    - body
+    - 12802
+    - 12913
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d68
+    span:
+    - body
+    - 12913
+    - 13124
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d69
+    span:
+    - body
+    - 13124
+    - 14367
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d70
+    span:
+    - body
+    - 14367
+    - 14424
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d71
+    span:
+    - body
+    - 14424
+    - 14580
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d72
+    span:
+    - body
+    - 14580
+    - 14665
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 291
+    marker_id: KR2b0007_ZHSJ_291-d73d73
+    span:
+    - body
+    - 14665
+    - 14709
+  label: 帝命趣草制
+  type: section
+  level: 3
+- ref:
+    seq: 292
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 13869
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 292
+    marker_id: KR2b0007_ZHSJ_292-d74h1s1
+    span:
+    - body
+    - 0
+    - 72
+  label: 資治通鑑卷第二百九十二
+  type: section
+  level: 2
+- ref:
+    seq: 292
+    marker_id: KR2b0007_ZHSJ_292-d75
+    span:
+    - body
+    - 72
+    - 8834
+  label: 後周紀三太祖聖神恭肅文武孝皇帝下
+  type: section
+  level: 2
+- ref:
+    seq: 292
+    marker_id: KR2b0007_ZHSJ_292-d76
+    span:
+    - body
+    - 8834
+    - 13869
+  label: 三年丙辰九五六
+  type: section
+  level: 2
+- ref:
+    seq: 292
+    marker_id: KR2b0007_ZHSJ_292-d76d1
+    span:
+    - body
+    - 8841
+    - 8885
+  label: 潘叔嗣屬將士而告之曰
+  type: section
+  level: 3
+- ref:
+    seq: 292
+    marker_id: KR2b0007_ZHSJ_292-d76d2
+    span:
+    - body
+    - 8885
+    - 8916
+  label: 潘叔嗣屬將士而告之曰
+  type: section
+  level: 3
+- ref:
+    seq: 292
+    marker_id: KR2b0007_ZHSJ_292-d76d3
+    span:
+    - body
+    - 8916
+    - 9011
+  label: 潘叔嗣屬將士而告之曰
+  type: section
+  level: 3
+- ref:
+    seq: 292
+    marker_id: KR2b0007_ZHSJ_292-d76d4
+    span:
+    - body
+    - 9011
+    - 10350
+  label: 潘叔嗣屬將士而告之曰
+  type: section
+  level: 3
+- ref:
+    seq: 292
+    marker_id: KR2b0007_ZHSJ_292-d76d5
+    span:
+    - body
+    - 10350
+    - 10532
+  label: 潘叔嗣屬將士而告之曰
+  type: section
+  level: 3
+- ref:
+    seq: 292
+    marker_id: KR2b0007_ZHSJ_292-d76d6
+    span:
+    - body
+    - 10532
+    - 11835
+  label: 潘叔嗣屬將士而告之曰
+  type: section
+  level: 3
+- ref:
+    seq: 292
+    marker_id: KR2b0007_ZHSJ_292-d76d7
+    span:
+    - body
+    - 11835
+    - 12135
+  label: 潘叔嗣屬將士而告之曰
+  type: section
+  level: 3
+- ref:
+    seq: 292
+    marker_id: KR2b0007_ZHSJ_292-d76d8
+    span:
+    - body
+    - 12135
+    - 12325
+  label: 潘叔嗣屬將士而告之曰
+  type: section
+  level: 3
+- ref:
+    seq: 292
+    marker_id: KR2b0007_ZHSJ_292-d76d9
+    span:
+    - body
+    - 12325
+    - 12418
+  label: 潘叔嗣屬將士而告之曰
+  type: section
+  level: 3
+- ref:
+    seq: 292
+    marker_id: KR2b0007_ZHSJ_292-d76d10
+    span:
+    - body
+    - 12418
+    - 12500
+  label: 潘叔嗣屬將士而告之曰
+  type: section
+  level: 3
+- ref:
+    seq: 292
+    marker_id: KR2b0007_ZHSJ_292-d76d11
+    span:
+    - body
+    - 12500
+    - 12546
+  label: 潘叔嗣屬將士而告之曰
+  type: section
+  level: 3
+- ref:
+    seq: 292
+    marker_id: KR2b0007_ZHSJ_292-d76d12
+    span:
+    - body
+    - 12546
+    - 12566
+  label: 潘叔嗣屬將士而告之曰
+  type: section
+  level: 3
+- ref:
+    seq: 292
+    marker_id: KR2b0007_ZHSJ_292-d76d13
+    span:
+    - body
+    - 12566
+    - 12675
+  label: 潘叔嗣屬將士而告之曰
+  type: section
+  level: 3
+- ref:
+    seq: 292
+    marker_id: KR2b0007_ZHSJ_292-d76d14
+    span:
+    - body
+    - 12675
+    - 13869
+  label: 潘叔嗣屬將士而告之曰
+  type: section
+  level: 3
+- ref:
+    seq: 293
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 13959
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 293
+    marker_id: KR2b0007_ZHSJ_293-d77h1s1
+    span:
+    - body
+    - 0
+    - 72
+  label: 資治通鑑卷第二百九十三
+  type: section
+  level: 2
+- ref:
+    seq: 293
+    marker_id: KR2b0007_ZHSJ_293-d78
+    span:
+    - body
+    - 72
+    - 7692
+  label: 後周紀四世宗睿武孝文皇帝中
+  type: section
+  level: 2
+- ref:
+    seq: 293
+    marker_id: KR2b0007_ZHSJ_293-d79
+    span:
+    - body
+    - 7692
+    - 13959
+  label: 四年丁巳五九七
+  type: section
+  level: 2
+- ref:
+    seq: 294
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 14757
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 294
+    marker_id: KR2b0007_ZHSJ_294-d80h1s1
+    span:
+    - body
+    - 0
+    - 72
+  label: 資治通鑑卷第二百九十四
+  type: section
+  level: 2
+- ref:
+    seq: 294
+    marker_id: KR2b0007_ZHSJ_294-d81
+    span:
+    - body
+    - 72
+    - 5637
+  label: 後周紀五世宗睿武孝文皇帝下
+  type: section
+  level: 2
+- ref:
+    seq: 294
+    marker_id: KR2b0007_ZHSJ_294-d82
+    span:
+    - body
+    - 5637
+    - 14757
+  label: 六年己未九五九
+  type: section
+  level: 2
+hash: sha256:0bd69680bfb177a0dccc480709593505e1a43a0c812d0cd28c991c21d0141799
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
