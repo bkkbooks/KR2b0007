@@ -30,6 +30,7 @@ markers:
   - {type: line-break, offset: 9, content: '', id: KR2b0007_WYG_000-1a04}
   - {type: indent, offset: 9, content: 　　　　, id: KR2b0007_krp_000-bkkind4}
   - {type: punctuation, offset: 9, content: (, id: KR2b0007_krp_000-bkkpn1}
+  - {type: voice, offset: 9, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 10, content: /, id: KR2b0007_krp_000-bkkpn2}
   - {type: punctuation, offset: 10, content: ), id: KR2b0007_krp_000-bkkpn3}
   - {type: variant, offset: 17, length: 7, content: 二百九十四巻宋, SBCK: 戒於後丗者也漢司馬遷􆉒石室金匱之書據左氏國語推丗本戰國策楚漢春秋采經摭傳罔羅天下放失舊聞考之行事馳騁上下數千載閒首記軒轅至于麟止作爲紀表丗家書傳後之述者不能易此體也惟其是非不謬於聖人襃貶岀於至當則良史之才矣􅀂稽古英考留神載籍萬機之暇未甞廢卷甞命龍圖閣直學士}
@@ -153,12 +154,15 @@ markers:
   - {type: line-break, offset: 365, content: '', id: KR2b0007_WYG_000-2b01}
   - {type: indent, offset: 365, content: 　　　　　　　, id: KR2b0007_krp_000-bkkind25}
   - {type: punctuation, offset: 368, content: (, id: KR2b0007_krp_000-bkkpn4}
+  - {type: voice, offset: 368, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 369, content: /, id: KR2b0007_krp_000-bkkpn5}
   - {type: punctuation, offset: 369, content: ), id: KR2b0007_krp_000-bkkpn6}
   - {type: punctuation, offset: 371, content: (, id: KR2b0007_krp_000-bkkpn7}
+  - {type: voice, offset: 371, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 372, content: /, id: KR2b0007_krp_000-bkkpn8}
   - {type: punctuation, offset: 372, content: ), id: KR2b0007_krp_000-bkkpn9}
   - {type: punctuation, offset: 375, content: (, id: KR2b0007_krp_000-bkkpn10}
+  - {type: voice, offset: 375, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 376, content: /, id: KR2b0007_krp_000-bkkpn11}
   - {type: punctuation, offset: 376, content: ), id: KR2b0007_krp_000-bkkpn12}
   - {type: 'kr:newline', offset: 379, content: '
@@ -170,6 +174,7 @@ markers:
   - {type: indent, offset: 381, content: 　, id: KR2b0007_krp_000-bkkind28}
   - {type: indent, offset: 382, content: 　, id: KR2b0007_krp_000-bkkind29}
   - {type: punctuation, offset: 382, content: (, id: KR2b0007_krp_000-bkkpn13}
+  - {type: voice, offset: 382, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 383, content: /, id: KR2b0007_krp_000-bkkpn14}
   - {type: punctuation, offset: 383, content: ), id: KR2b0007_krp_000-bkkpn15}
   - {type: indent, offset: 383, content: 　, id: KR2b0007_krp_000-bkkind30}
@@ -323,6 +328,7 @@ markers:
       ', id: KR2b0007_krp_000-bkkkrnewl60}
   - {type: line-break, offset: 917, content: '', id: KR2b0007_WYG_000-4b03}
   - {type: punctuation, offset: 930, content: (, id: KR2b0007_krp_000-bkkpn16}
+  - {type: voice, offset: 930, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 932, content: /, id: KR2b0007_krp_000-bkkpn17}
   - {type: punctuation, offset: 932, content: ), id: KR2b0007_krp_000-bkkpn18}
   - {type: 'kr:newline', offset: 938, content: '
@@ -366,4 +372,4 @@ markers:
 
       ', id: KR2b0007_krp_000-bkkkrnewl70}
   back: []
-hash: sha256:e0ffc4d144243862b495b6eacbc1aebdb2105a45c556ddc82928bade499ce8ad
+hash: sha256:20b221a53eecd50a96dfcddd829d7fab41c68d6af37b27f02a14dd315a308052

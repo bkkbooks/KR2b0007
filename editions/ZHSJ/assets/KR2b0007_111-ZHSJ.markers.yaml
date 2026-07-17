@@ -75,10 +75,12 @@ markers:
   - {type: 'tls:seg', offset: 93, content: '', id: KR2b0007_ZHSJ_111-d89d1p1s1}
   - {type: indent, offset: 93, content: 　, id: KR2b0007_ZHSJ_111-bkkind41}
   - {type: indent, offset: 93, content: 　, id: KR2b0007_ZHSJ_111-bkkind42}
+  - {type: voice, offset: 93, length: 0, name: note, id: n1}
   - {type: xml-element, offset: 97, content: '', id: KR2b0007_ZHSJ_111-d89d1p1_end, name: p, role: close, attrs: {'xml:id': KR2b0007_ZHSJ_111-d89d1p1}}
   - {type: xml-element, offset: 97, content: '', id: KR2b0007_ZHSJ_111-d89d1p2, name: p, role: open, attrs: {'xml:id': KR2b0007_ZHSJ_111-d89d1p2}}
   - {type: 'tls:seg', offset: 97, content: '', id: KR2b0007_ZHSJ_111-d89d1p2s1}
   - {type: punctuation, offset: 101, content: (, id: KR2b0007_ZHSJ_111-bkkpn8}
+  - {type: voice, offset: 101, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 103, content: 、, id: KR2b0007_ZHSJ_111-bkkpn9}
   - {type: punctuation, offset: 106, content: ), id: KR2b0007_ZHSJ_111-bkkpn10}
   - {type: xml-element, offset: 106, content: '', id: KR2b0007_ZHSJ_111-d89d1p2_end, name: p, role: close, attrs: {'xml:id': KR2b0007_ZHSJ_111-d89d1p2}}
@@ -4601,6 +4603,7 @@ markers:
   - {type: 'tls:seg-end', offset: 9224, content: '', id: KR2b0007_ZHSJ_111-d89d44p1s7_end, seg_type: comm}
   - {type: xml-element, offset: 9224, content: '', id: KR2b0007_ZHSJ_111-d89d44p1_end, name: p, role: close, attrs: {'xml:id': KR2b0007_ZHSJ_111-d89d44p1}}
   - {type: punctuation, offset: 9226, content: (, id: KR2b0007_ZHSJ_111-bkkpn2346}
+  - {type: voice, offset: 9226, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 9228, content: 、, id: KR2b0007_ZHSJ_111-bkkpn2347}
   - {type: punctuation, offset: 9229, content: ０, id: KR2b0007_ZHSJ_111-bkkpn2348}
   - {type: punctuation, offset: 9229, content: ０, id: KR2b0007_ZHSJ_111-bkkpn2349}
@@ -6904,4 +6907,4 @@ markers:
   - {type: xml-element, offset: 13562, content: '', id: KR2b0007_ZHSJ_111-d90d40p2_end, name: p, role: close, attrs: {'xml:id': KR2b0007_ZHSJ_111-d90d40p2}}
   - {type: page-break, offset: 13562, content: '', id: KR2b0007_ZHSJ_111-bkkpb25}
   back: []
-hash: sha256:d46ec1ec8217e7e67092e1bfca5aa04a66f8fd28d2b422b6252817629f259485
+hash: sha256:f696e25f860e79ab1953864ac19fc9bab3a401b0d9897ab03b8b213e5af31d4e
